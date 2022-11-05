@@ -5,3 +5,5 @@ Video Card	NVIDIA GeForce GTX 1050
 Video Card #2	Intel(R) UHD Graphics 630
 Operating System	Windows 11
 RAM	16 GB
+
+Laptop Model : HP Pavillion Gaming Laptop 15-cx0xxx
